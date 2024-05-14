@@ -1,4 +1,4 @@
-package OOP;
+package Java2;
 
 public class Student extends User {
     String matric_no = "bhu/22/04/05/0049";

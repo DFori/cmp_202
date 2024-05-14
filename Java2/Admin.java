@@ -1,4 +1,4 @@
-package OOP;
+package Java2;
 
 public class Admin extends User {
     String staffNo;

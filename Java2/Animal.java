@@ -1,4 +1,4 @@
-package OOP;
+package Java2;
 public class Animal {
     String name;
     String move(){
