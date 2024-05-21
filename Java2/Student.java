@@ -24,5 +24,6 @@ public class Student extends User {
         System.out.println(student.register());
         System.out.println(student.registerCourse());
         System.out.println(student.checkResults());
+        
     }
 }
